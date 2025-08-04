@@ -26,3 +26,6 @@ $ pip install fastmcp
 
 #### In Cline to test hello world please type in Cline
 hello-world Hackathon
+
+### Based on Fast MCP quickstart
+[Fast MCP quickstart](https://gofastmcp.com/getting-started/quickstart)
